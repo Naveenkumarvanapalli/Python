@@ -5,7 +5,7 @@ def line_line():
     f.forward(37.5)
     f.right(180)
     f.forward(37.5)
-    
+   print("INDIAN FLAG") 
 f=turtle.Turtle()
 f.color("#FF9933")
 f.fillcolor("#FF9933")
